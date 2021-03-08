@@ -2,11 +2,6 @@
 spring:
   profiles:
     active:
-  # Security configuration
-  security:
-    user:
-      name: user
-      password: user
   # Database
   datasource:
     driver-class-name: org.postgresql.Driver
